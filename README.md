@@ -1,16 +1,15 @@
 # YONGHAOZHANG.github.io
-<p align="center"><img width="80%" src="./img/banner.png" /></a></p>
+<p align="center"><img width="80%" src="./banner.png" /></a></p>
 
 **<p align="center">📢纵有疾风起，人生不言弃 | Le vent se lève, il faut tenter de vivre🏃<p>**
 <div>
-    <img src="./img/githubavatar.jfif" alt="githubavatar" width="30%" align="right"/>
+    <img src="./githubavatar.jfif" alt="githubavatar" width="30%" align="right"/>
     
 ### 👋 关于我 | Player
 
 - 🌏️某不知名大专大数据专业研一在读生一枚
 - ⌨ 编程水货 🔜🧙图形学/视觉炼丹侠
 - 💬 建立羁绊：1422257646@qq.com
-- ⭐ 个人博客：🈺[coolchong.cn](https://coolchong.cn)
 - 😋 杂食动物：🥤肥宅快乐水&&🎮️菜还爱玩&&🎸能谈响就行
 </div>
 
@@ -18,7 +17,7 @@
 
 | 可能会的                                                     | 一知半解                                                     | 不懂装懂                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <code><img height="40" alt="cpp" src="./img/cpp.svg"></code> <code><img height="40" alt="python" src="./img/python.svg"></code> <code><img height="40" alt="java" src="./img/java.svg"></code> <code><img height="40" alt="js" src="./img/js.svg"></code> <code><img height="40" alt="vue" src="./img/vue.svg"></code> | <code><img height="40" alt="pytorch" src="./img/pytorch.svg"></code> <code><img height="40" alt="mysql" src="./img/mysql.svg"></code> <code><img height="40" alt="docker" src="./img/docker.svg"></code> <code><img height="40" alt="docker" src="./img/unity.svg"></code> <code><img height="40" alt="docker" src="./img/cs.svg"></code>| <code><img height="40" alt="linux" src="./img/linux.svg"></code> <code><img height="40" alt="cmake" src="./img/cmake.svg"></code> <code><img height="40" alt="matlab" src="./img/matlab.svg"></code> |
+| <code><img height="40" alt="cpp" src="./cpp.svg"></code> <code><img height="40" alt="python" src="./python.svg"></code> <code><img height="40" alt="java" src="./java.svg"></code> <code><img height="40" alt="js" src="./js.svg"></code> <code><img height="40" alt="vue" src="./vue.svg"></code> | <code><img height="40" alt="pytorch" src="./pytorch.svg"></code> <code><img height="40" alt="mysql" src="./mysql.svg"></code> <code><img height="40" alt="docker" src="./docker.svg"></code> <code><img height="40" alt="docker" src="./unity.svg"></code> <code><img height="40" alt="docker" src="./cs.svg"></code>| <code><img height="40" alt="linux" src="./linux.svg"></code> <code><img height="40" alt="cmake" src="./cmake.svg"></code> <code><img height="40" alt="matlab" src="./matlab.svg"></code> |
 
 ### 🧰 工具箱 | Tool
 
