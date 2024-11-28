@@ -1,7 +1,7 @@
 # YONGHAOZHANG.github.io
 <p align="center"><img width="80%" src="./banner.png" /></a></p>
 
-**<p align="center">📢纵有疾风起，人生不言弃 | Le vent se lève, il faut tenter de vivre🏃<p>**
+**<p align="center">📢世界上最重要的不是你所站的位置，而是你前进的方向。🏃<p>**
 <div>
     <img src="./githubavatar.jfif" alt="githubavatar" width="30%" align="right"/>
     
