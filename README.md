@@ -21,16 +21,16 @@
 
 ### 🧰 工具箱 | Tool
 
-<code><img height="40" alt="vscode" src="./img/vscode.svg"></code>
-<code><img height="40" alt="sublime" src="./img/sublime.svg"></code>
-<code><img height="40" alt="pycharm" src="./img/pycharm.svg"></code>
-<code><img height="40" alt="idea" src="./img/Idea.svg"></code>
-<code><img height="40" alt="typora" src="./img/typora.svg"></code>
-<code><img height="40" alt="github" src="./img/github.svg"></code>
-<code><img height="40" alt="gitee" src="./img/gitee.svg"></code>
-<code><img height="40" alt="wangzhe" src="./img/wangzhe.svg"></code>
+<code><img height="40" alt="vscode" src="./vscode.svg"></code>
+<code><img height="40" alt="sublime" src="./sublime.svg"></code>
+<code><img height="40" alt="pycharm" src="./pycharm.svg"></code>
+<code><img height="40" alt="idea" src="./Idea.svg"></code>
+<code><img height="40" alt="typora" src="./typora.svg"></code>
+<code><img height="40" alt="github" src="./github.svg"></code>
+<code><img height="40" alt="gitee" src="./gitee.svg"></code>
+<code><img height="40" alt="wangzhe" src="./wangzhe.svg"></code>
 
 ### 🏆 数据板 | Record
 
-![Langwenchong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Langwenchong&count_private=true&show_icons=true&theme=flag-india&show_owner=true)
-![pengpenglang's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Langwenchong&layout=compact&hide_border=true&langs_count=10&hide=html)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Langwenchong&count_private=true&show_icons=true&theme=flag-india&show_owner=true)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Langwenchong&layout=compact&hide_border=true&langs_count=10&hide=html)
