@@ -40,7 +40,3 @@
 <code><img height="40" alt="gitee" src="./gitee.svg"></code>
 <code><img height="40" alt="wangzhe" src="./wangzhe.svg"></code>
 
-### 🏆 数据板 | Record
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Langwenchong&count_private=true&show_icons=true&theme=flag-india&show_owner=true)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Langwenchong&layout=compact&hide_border=true&langs_count=10&hide=html)
